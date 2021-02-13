@@ -1,7 +1,7 @@
 package com.github.markusbernhardt.seleniumlibrary.keywords;
 
 import io.appium.java_client.ios.IOSDriver;
-import io.github.bonigarcia.wdm.DriverManagerType;
+import io.github.bonigarcia.wdm.config.DriverManagerType;
 import io.github.bonigarcia.wdm.WebDriverManager;
 import io.selendroid.client.SelendroidDriver;
 
